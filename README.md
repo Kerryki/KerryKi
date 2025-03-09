@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Kigham Kerry!  
 
-<!--
-**Kerryki/KerryKi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a **Full-Stack Engineer** specializing in Front-End,web and mobile applications.  
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects  
+| Project | Description | Tech Stack | Link |
+|---------|------------|------------|------|
+| **[ReviewMate](https://github.com/KighamKerry/ReviewMate)** | AI-powered resume analyzer | React, Flask, PyTorch, AWS | [Live](#) |
+| **[License Selling Website](https://github.com/KighamKerry/LicenseMarket)** | Marketplace for buying/selling licenses | React, Spring Boot, Stripe, AWS | [Live](#) |
+| **[Fish Wildfire](https://github.com/KighamKerry/FishWildfire)** | AI wildfire detection system | React, Flask, PyTorch, AWS | [Live](#) |
+| **[InternTrack](https://github.com/KighamKerry/InternTrack)** | Internship application tracker | React, Spring Boot, MongoDB, AWS | [Live](#) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact Me  
+📧 [Email](mailto:your.email@example.com)  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+
+---
