@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a full-stack engineer passionate about building web ap
 ### 1️⃣ InternTrack 
 A tool for tracking internship applications with real-time status updates, job link storage, and easy application access.  
 - **Tech Stack:** React, Firebase, Tailwind CSS  
-- **What I Did:** Built authentication, job tracking UI, and Firebase integration and everything else.
+- **What I Did:** Built authentication, job tracking UI, and Firebase integration and deployment
 
 ### 2️⃣ ReviewMate
 A web app for students in groups to review each other’s contributions.  
